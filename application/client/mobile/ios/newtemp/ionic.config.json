@@ -1,0 +1,7 @@
+{
+  "name": "newtemp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
