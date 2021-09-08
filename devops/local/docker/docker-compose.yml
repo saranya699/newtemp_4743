@@ -100,7 +100,7 @@ services:
     image: newtemplate-4743
     container_name: newtemplate-4743
     ports: 
-      - 8008:8008
+      - 8009:8009
     env_file: .env
     depends_on:
       - mongo
